@@ -51,16 +51,7 @@ public class AboutAppActivity extends AppCompatActivity {
         new LicensesDialog.Builder(this).setNotices(notices).setIncludeOwnLicense(true).build().show();
     }
 
-    public void signUpBeta(View v) {
-        CustomTabs.with(getApplicationContext())
-                .setStyle(new CustomTabs.Style(getApplicationContext())
-                        .setShowTitle(true)
-                        .setExitAnimation(android.R.anim.slide_in_left, android.R.anim.slide_out_right)
-                        .setToolbarColor(R.color.colorPrimary))
-                .openUrl("https://play.google.com/apps/testing/com.suyashsrijan.forcedoze", this);
-    }
-
-    public void showTranslationCreditsDialog(View v) {
+        public void showTranslationCreditsDialog(View v) {
         AlertDialog.Builder builder = new AlertDialog.Builder(this, R.style.AppCompatAlertDialogStyle);
         builder.setTitle(getString(R.string.translation_credits_dialog_title));
         builder.setMessage(getString(R.string.translation_credits_dialog_text));
