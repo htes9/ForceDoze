@@ -34,8 +34,8 @@
     <string name="whitelisting_text">Lista bianca</string>
     <string name="whitelisted_apps_restrictions_text">"Un'app in lista bianca può usare la rete dati e wake lock parziali durante la modalità Doze e stanby dell'app. Tuttavia, le altre restrizioni saranno applicate alle app in lista bianca, come qualunque altra app. Per esempio, ad un app in lista bianca i lavori e sincronizzazioni verranno rinviati e i regolari allarmi non eseguiti. "</string>
     <string name="info_text">Info</string>
-    <string name="app_already_whitelisted_text">L'app che stai tentando di aggiungere è già in lista bianca!</string>
-    <string name="app_not_whitelisted_text">L'app che stai tentando di rimuovere non è presente in lista bianca</string>
+    <string name="app_already_whitelisted_text">L\'app che stai tentando di aggiungere è già in lista bianca!</string>
+    <string name="app_not_whitelisted_text">L\'app che stai tentando di rimuovere non è presente in lista bianca</string>
     <string name="force_doze_info">ForceDoze attiva Doze nel momento in cui spegni lo schermo. Inoltre disattiva i sensori di movimento per evitare che Doze sia disattivato per sbaglio prima della sua finestra di manutenzione, rendendo il risparmio di batteria molto più alto rispetto al Doze standard</string>
     <string name="hi_text">Ciao!</string>
     <string name="enable_sensors_setting_title">Non disattivare i sensori allo spegnimento dello schermo</string>
