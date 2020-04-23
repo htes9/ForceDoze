@@ -29,7 +29,7 @@
     <string name="error_text">错误</string>
     <string name="please_wait_text">请稍等</string>
     <string name="requesting_su_access_text">正在请求SU许可</string>
-    <string name="read_logcat_su_not_avail_or_denied_error_text">无法读取 logcat ，SU 权限被拒绝或 SU 不可用，\n\n请通过 ADB 授予 READ_LOGS 权限来使用此功能: \'adb shell pm grant com.suyashsrijan.forcedoze android.permission.READ_LOGS\' (注意：不带单引号')</string>
+    <string name="read_logcat_su_not_avail_or_denied_error_text">无法读取 logcat ，SU 权限被拒绝或 SU 不可用，\n\n请通过 ADB 授予 READ_LOGS 权限来使用此功能: \'adb shell pm grant com.suyashsrijan.forcedoze android.permission.READ_LOGS\' (注意：不带单引号\')</string>
     <string name="loading_installed_apps_text">正在获取已安装的应用程序...</string>
     <string name="whitelisting_text">白名单</string>
     <string name="whitelisted_apps_restrictions_text">"被加入白名单的应用程序可以在 Doze 和应用待机期间使用网络及保留部分唤醒能力。不过，某些限制仍适用于在白名单内的应用程序，例如：例如，白名单内的应用程序的任务和同步将被延缓，并且不会触发其常规AlarmManager警报。"</string>
