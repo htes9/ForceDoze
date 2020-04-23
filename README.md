@@ -19,7 +19,7 @@ ForceDoze allows you to forcefully enable Doze right after you turn off your scr
 * Free, no ads and open source
 
 # Download 
-Play Store link: https://play.google.com/store/apps/details?id=com.suyashsrijan.forcedoze&hl=en
+  F-Droid: https://f-droid.org/packages/com.suyashsrijan.forcedoze/
 
 ## Android
 ### Requirements for compiling source code and running the app:
