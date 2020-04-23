@@ -117,7 +117,7 @@
     <string name="compact_view_menu_item">Vista compatta</string>
     <string name="battery_optimization_menu_item">Ottimizzazione batteria</string>
     <string name="doze_stats_battery_icon_meaning_dialog_title">Cosa significano le icone?</string>
-    <string name="doze_stats_battery_icon_meaning_dialog_text">L'icona della batteria con un fulmine indica che il consumo della batteria durante la sessione Doze è nei valori accettabili, invece l'icona della batteria con un punto esclamativo indica una sessione Doze con uso della batteria maggiore dei valori accettabili. Se l'uso della batteria in ogni sessione Doze è sopra i vaolri accettabili, si consiglia di usare app tipo GSAM o simili per indagare su cosa consumi eccessivamente la batteria</string>
+    <string name="doze_stats_battery_icon_meaning_dialog_text">L\'icona della batteria con un fulmine indica che il consumo della batteria durante la sessione Doze è nei valori accettabili, invece l\'icona della batteria con un punto esclamativo indica una sessione Doze con uso della batteria maggiore dei valori accettabili. Se l\'uso della batteria in ogni sessione Doze è sopra i vaolri accettabili, si consiglia di usare app tipo GSAM o simili per indagare su cosa consumi eccessivamente la batteria</string>
     <string name="clearing_doze_stats_text">Cancellando statistiche Doze...</string>
     <string name="tile_label">ForceDoze</string>
     <string name="notif_blocklist_setting_summary">Evita che le notifiche vangano ricevute durante Doze</string>
