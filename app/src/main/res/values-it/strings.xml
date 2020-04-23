@@ -95,7 +95,7 @@
     <string name="doze_delay_warning_dialog_title">Attenzione</string>
     <string name="doze_delay_warning_dialog_text">Il valore corrente di ritardo di Doze è troppo alto e potrebbe avere impatti negativi sulla durata della batteria. Assicurati di testare gli effetti del ritardo sulla batteria e considera di ridurlo se noti un peggioramento di essa.</string>
     <string name="forcedoze_reset_initial_dialog_title">Vuoi resettare?</string>
-    <string name="forcedoze_reset_initial_dialog_text">Resettando ForceDoze farai i seguenti cambiamenti: \n\n1) Fermerai il servizio ForceDoze\n2) Riattiverai i sensori, in caso fossero stati disattivati\n3) Disattiverai e riattiverai la modalità Doze, per essere sicuro che sia stata attivata correttamente\n4) Resetterai le preferenze dell'app\n5) Rimuoverai i permessi DUMP, WRITE_SECURE_SETTINGS, READ_PHONE_STATE, WRITE_SETTINGS, READ_LOGS (se concessi)\n\nVuoi continuare?</string>
+    <string name="forcedoze_reset_initial_dialog_text">Resettando ForceDoze farai i seguenti cambiamenti: \n\n1) Fermerai il servizio ForceDoze\n2) Riattiverai i sensori, in caso fossero stati disattivati\n3) Disattiverai e riattiverai la modalità Doze, per essere sicuro che sia stata attivata correttamente\n4) Resetterai le preferenze dell\'app\n5) Rimuoverai i permessi DUMP, WRITE_SECURE_SETTINGS, READ_PHONE_STATE, WRITE_SETTINGS, READ_LOGS (se concessi)\n\nVuoi continuare?</string>
     <string name="yes_button_text">Si</string>
     <string name="no_button_text">No</string>
     <string name="turn_off_internet_doze_setting_title">Disattiva Internet durante Doze</string>
