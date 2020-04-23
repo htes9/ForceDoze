@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
     boolean isDumpPermGranted = false;
     boolean isWriteSecureSettingsPermGranted = false;
     boolean ignoreLockscreenTimeout = true;
-    boolean showDonateDevDialog = true;
+    boolean showDonateDevDialog = false;
     SwitchCompat toggleForceDozeSwitch;
     MaterialDialog progressDialog = null;
     TextView textViewStatus;
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements CompoundButton.On
         CustomTabs.with(getApplicationContext()).warm();
         settings = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
         isDozeEnabledByOEM = Utils.checkForAutoPowerModesFlag();
-        showDonateDevDialog = settings.getBoolean("showDonateDevDialog2", true);
+        showDonateDevDialog = settings.getBoolean("showDonateDevDialog2", false);
         serviceEnabled = settings.getBoolean("serviceEnabled", false);
         isDozeDisabled = settings.getBoolean("isDozeDisabled", false);
         isSuAvailable = settings.getBoolean("isSuAvailable", false);
