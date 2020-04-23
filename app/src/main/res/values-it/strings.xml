@@ -125,7 +125,7 @@
     <string name="app_blocklist_setting_summary">Evita che app (e i suoi servizi in background) siano attive durante Doze</string>
     <string name="app_blocklist_setting_title">Lista app bloccate in Doze</string>
     <string name="app_doesnt_exist_in_blocklist">L'app che stai cercando di rimuovere non esiste nella lista</string>
-    <string name="app_already_in_blocklist">L'app che stai cercando di aggiungere è già presente in lista</string>
+    <string name="app_already_in_blocklist">L\'app che stai cercando di aggiungere è già presente in lista</string>
     <string name="name_of_package_doze_block">Inserisci il nome del pacchetto dell'app che vuoi bloccare durante Doze</string>
     <string name="name_of_package_doze_block_remove">Inserisci il nome del pacchetto dell'app che vuoi rimuovere dalla lista delle app bloccate durante Doze</string>
     <string name="loading_blocked_packages">Caricamento pacchetti app bloccate</string>
