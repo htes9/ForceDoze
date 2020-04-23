@@ -74,7 +74,7 @@
     <string name="forcedoze_active_dialog_title">Fatto</string>
     <string name="forcedoze_active_dialog_text">ForceDoze è abilitato e la durata della batteria in standby sarà incrementata di molto!</string>
     <string name="donate_dialog_title">Supporta il mio lavoro</string>
-    <string name="donate_dialog_text">ForceDoze è un programma open-source completamente gratuito e privo di pubblicità ed io ci ho messo tanto impegno per crearla e migliorarla, con aggiornamenti settimanali per sistemare i vari bug e aggiungere nuove funzioni. Se apprezzi il mio lavoro, considera l'idea di una donazione per motivarmi nel lavorare sodo per creare altre app utili!</string>
+    <string name="donate_dialog_text">ForceDoze è un programma open-source completamente gratuito e privo di pubblicità ed io ci ho messo tanto impegno per crearla e migliorarla, con aggiornamenti settimanali per sistemare i vari bug e aggiungere nuove funzioni. Se apprezzi il mio lavoro, considera l\'idea di una donazione per motivarmi nel lavorare sodo per creare altre app utili!</string>
     <string name="donate_dialog_button_text">Voglio donare</string>
     <string name="about_forcedoze_setting_title">Circa ForceDoze</string>
     <string name="about_app_opensrc_text">ForceDoze per Android è stato creato usando software open source:</string>
